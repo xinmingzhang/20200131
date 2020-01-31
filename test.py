@@ -7,7 +7,7 @@ import os
 from PyQt5.QtCore import QEasingCurve, Qt
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import QWidget, QLabel
-
+from zhongwu import *
 
 
 __Author__ = """By: Irony
