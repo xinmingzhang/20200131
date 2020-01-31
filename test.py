@@ -8,7 +8,6 @@ from PyQt5.QtCore import QEasingCurve, Qt
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import QWidget, QLabel
 
-from Lib.UiImageSlider import Ui_Form  # @UnresolvedImport
 
 
 __Author__ = """By: Irony
